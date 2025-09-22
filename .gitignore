@@ -1,0 +1,11 @@
+# Maven
+target/
+*.iml
+*.log
+
+# SQLite DB
+data/proteins.db
+
+# OS Files
+.DS_Store
+Thumbs.db
